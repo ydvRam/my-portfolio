@@ -1,0 +1,4 @@
+## features
+
+Feature Ideas: Dark mode, live project demos
+About: My portfolio showcasing my journey.
