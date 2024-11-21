@@ -11,3 +11,7 @@ This is a personal portfolio site to showcase my projects and skills.
 ## Setup
 1. Clone the repository:
    git clone https://github.com/your-username/my-portfolio.git
+
+## Installation
+1. Clone the repository:
+git clone https://github.com/your-username/my-portfolio.git
